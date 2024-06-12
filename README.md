@@ -6,7 +6,7 @@
 1.輸入1，輸出0-9的三次方列表  
 ![2](https://github.com/kurumicute/ex-2/assets/90886946/160a5661-e98d-4ccd-8e88-983f7dda48c0)  
 2.輸入2，輸出為0-9偶數的三次方列表  
-![3](https://github.com/kurumicute/ex-2/assets/90886946/542fdefb-b45a-4523-8e15-2a2aecbe8f60) 
+![3](https://github.com/kurumicute/ex-2/assets/90886946/542fdefb-b45a-4523-8e15-2a2aecbe8f60)  
 3.輸入3，輸出為元素為元祖的列表，元祖中元素依次是0-9中的奇數和該數的三次方:  
 ![4](https://github.com/kurumicute/ex-2/assets/90886946/81e74201-8177-476f-a0e1-c58a1ce5928d)  
 4.輸入4，將列表IS中的每個元素首字母轉為大寫字母，輸出列表:  
